@@ -2,7 +2,7 @@ let cantidad = -1
 
 while(cantidad<0 || isNaN(cantidad)){
     cantidad = parseInt(prompt("ingrese cantidad "))
-    console.log(cantidad);
+    console.log(cantidad)
 }
 
 // Pedir con PROMPT los datos de cada vino (nombre, varietal, foto y fecha de estacionamiento del vino).
