@@ -10,7 +10,7 @@ let whisky2 = {
     marcaProducto: "Chivas gold",
     origenProducto: "mexico",
     fotoProducto: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiu4iZxVIsczN1Tal0cVF17YBb_qV3eUchwA&usqp=CAU",
-    añoProducto: 2002,
+    añoProducto: 2012,
     id: 252525
 }
 
