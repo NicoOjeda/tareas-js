@@ -31,6 +31,6 @@ function impresionDom(idHtml,objeto) {
     contenedor.innerHTML += impresion
 }
 
-impresionDom("todos",whisky1)
-impresionDom("todos",whisky1)
-impresionDom("todos",whisky1)
+// impresionDom("todos",whisky1)
+// impresionDom("todos",whisky1)
+// impresionDom("todos",whisky1)
